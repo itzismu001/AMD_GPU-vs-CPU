@@ -60,46 +60,41 @@ cd civismetric-vision
 # Install dependencies
 pip install -r requirements.txt
 
-## 📸 Project Gallery & Performance Proof
+## 📸 Project Gallery
 
-### 🖥️ 1. Real-Time Detection Interface
-The dashboard is built with Streamlit, providing a clean UI to switch between AMD GPU (DirectML) and CPU modes.
+### 🖥️ 1. Real-Time Dashboard
 
 <p align="center">
-  <img src="Screenshot 2026-04-15 121918.png" width="850" alt="Interface Dashboard">
+  <img src="assets/Screenshot 2026-04-15 121918.png" width="850">
   <br>
-  <i>Figure 1: Civismetric Vision Landing Page showing active AMD DirectML configuration.</i>
+  <i>Streamlit dashboard with AMD DirectML active</i>
 </p>
 
 ---
 
-### 🔍 2. Live Object & PPE Detection
-The model accurately identifies personnel and equipment in real-time, optimized for low-latency feedback.
+### 🔍 2. Live Detection
 
 <p align="center">
-  <img src="Screenshot 2026-04-15 121948.png" width="850" alt="Live Detection">
+  <img src="assets/Screenshot 2026-04-15 121948.png" width="850">
   <br>
-  <i>Figure 2: YOLOv8 inference running on the local environment.</i>
+  <i>YOLOv8 real-time inference</i>
 </p>
 
 ---
 
-### 📊 3. Hardware Stress Comparison (CPU vs GPU)
-The primary technical achievement is the massive reduction in CPU overhead by utilizing DirectML.
+### 📊 3. CPU vs GPU Comparison
 
-| **AMD DirectML Mode (Optimized)** | **Standard CPU Mode (Heavy Load)** |
-| :---: | :---: |
-| <img src="Screenshot 2026-04-15 122245.png" width="400" alt="GPU Performance"> | <img src="Screenshot 2026-04-15 122419.png" width="400" alt="CPU Performance"> |
-| **Stable Performance** | **88%+ CPU Utilization** |
-| *Efficient GPU offloading active.* | *CPU thermal throttling risk.* |
+| AMD DirectML | CPU Mode |
+|-------------|----------|
+| <img src="assets/Screenshot 2026-04-15 122245.png" width="400"> | <img src="assets/Screenshot 2026-04-15 122419.png" width="400"> |
+| ✅ Stable | ❌ High CPU Usage |
 
 ---
 
-### 🛠️ 4. Technical System Telemetry
-A deep dive into the system performance showing the DirectML backend successfully managing the tensor workloads.
+### 🛠️ 4. System Telemetry
 
 <p align="center">
-  <img src="Screenshot 2026-04-15 122200.png" width="850" alt="Hardware Verification">
+  <img src="assets/Screenshot 2026-04-15 122200.png" width="850">
   <br>
-  <i>Figure 3: Windows Task Manager confirming GPU 0/1 utilization during live AI inference.</i>
+  <i>GPU utilization during inference</i>
 </p>
