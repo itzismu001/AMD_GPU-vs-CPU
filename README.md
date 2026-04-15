@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 🖥️ 1. Real-Time Dashboard
 
 <p align="center">
-  <img src="assets/Screenshot 2026-04-15 121918.png" width="850">
+  <img src="assets/interface.png" width="850">
   <br>
   <i>Streamlit dashboard with AMD DirectML active</i>
 </p>
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ### 🔍 2. Live Detection
 
 <p align="center">
-  <img src="assets/Screenshot 2026-04-15 121948.png" width="850">
+  <img src="assets/detection.png" width="850">
   <br>
   <i>YOLOv8 real-time inference</i>
 </p>
@@ -86,7 +86,7 @@ pip install -r requirements.txt
 
 | AMD DirectML | CPU Mode |
 |-------------|----------|
-| <img src="assets/Screenshot 2026-04-15 122245.png" width="400"> | <img src="assets/Screenshot 2026-04-15 122419.png" width="400"> |
+| <img src="assets/gpu.png" width="400"> | <img src="assets/cpu.png" width="400"> |
 | ✅ Stable | ❌ High CPU Usage |
 
 ---
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 ### 🛠️ 4. System Telemetry
 
 <p align="center">
-  <img src="assets/Screenshot 2026-04-15 122200.png" width="850">
+  <img src="assets/telemetry.png" width="850">
   <br>
   <i>GPU utilization during inference</i>
 </p>
