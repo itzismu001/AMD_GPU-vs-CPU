@@ -129,4 +129,4 @@ MIT License
 ## 👨‍💻 Author
 
 RAKESH BEHERA 
-https://github.com/itzismu001
+[https://github.com/itzismu001/AMD_GPU-vs-CPU]
