@@ -54,7 +54,7 @@ While most AI tools require NVIDIA hardware and CUDA drivers, **Civismetric Visi
 ### 2. Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/civismetric-vision.git](https://github.com/your-username/civismetric-vision.git)
+git clone https://github.com/itzismu001/AMD_GPU-vs-CPU
 cd civismetric-vision
 
 # Install dependencies
