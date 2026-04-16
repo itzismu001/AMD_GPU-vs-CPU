@@ -102,7 +102,7 @@ pip install -r requirements.txt
     <td align="center">
       <img src="assets/cpu.png" width="500"><br><br>
       
-    </td>
+    
   </tr>
 
   <!-- Row 2 -->
@@ -114,7 +114,7 @@ pip install -r requirements.txt
     <td align="center">
       <img src="assets/cpu_detection.png" width="500"><br><br>
       
-    </td>
+    
   </tr>
 </table>
 ### 🛠️ System Telemetry
