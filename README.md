@@ -90,6 +90,7 @@ pip install -r requirements.txt
 <table>
   <tr>
     <th align="center">AMD DirectML (GPU)</th>
+    <th align="center">CPU Mode</th>
     
   </tr>
 
@@ -105,7 +106,8 @@ pip install -r requirements.txt
   
   <td align="center">
 <img src="assets/detection.png" width="500"><br><br>
-  <b>Detection Output (GPU)</b>
+  <b>CPU Processing</b>
+
  </td>
 
    </tr>    
