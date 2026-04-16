@@ -87,10 +87,32 @@ pip install -r requirements.txt
 
 ### 📊 CPU vs GPU Comparison
 
-| AMD DirectML (GPU) | CPU Mode |
-|-------------------|----------|
-| <img src="assets/gpu.png" width="400"> | <img src="assets/cpu.png" width="400"> |
-| <img src="assets/detection.png" width="400"> | <img src="assets/cpu.png" width="400"> |
+<table>
+  <tr>
+    <th>AMD DirectML (GPU)</th>
+    <th>CPU Mode</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/gpu.png" width="350"><br>
+      GPU Processing
+    </td>
+    <td align="center">
+      <img src="assets/cpu.png" width="350"><br>
+      CPU Processing
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/detection.png" width="350"><br>
+      Detection Output (GPU)
+    </td>
+    <td align="center">
+      <img src="assets/cpu.png" width="350"><br>
+      Detection Output (CPU)
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ System Telemetry
 
