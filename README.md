@@ -101,7 +101,7 @@ pip install -r requirements.txt
     </td>
     <td align="center">
       <img src="assets/cpu.png" width="500"><br><br>
-      <b>CPU Processing</b>
+      
     </td>
   </tr>
 
@@ -113,7 +113,7 @@ pip install -r requirements.txt
     </td>
     <td align="center">
       <img src="assets/cpu_detection.png" width="500"><br><br>
-      <b>Detection Output (CPU)</b>
+      
     </td>
   </tr>
 </table>
