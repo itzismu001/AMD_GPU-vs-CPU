@@ -89,27 +89,29 @@ pip install -r requirements.txt
 
 <table>
   <tr>
-    <th>AMD DirectML (GPU)</th>
-    <th>CPU Mode</th>
+    <th align="center">AMD DirectML (GPU)</th>
+    <th align="center">CPU Mode</th>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="assets/gpu.png" width="350"><br>
-      GPU Processing
+      <img src="assets/gpu.png" width="500"><br><br>
+      <b>GPU Processing</b>
     </td>
     <td align="center">
-      <img src="assets/cpu.png" width="350"><br>
-      CPU Processing
+      <img src="assets/cpu.png" width="500"><br><br>
+      <b>CPU Processing</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="assets/detection.png" width="350"><br>
-      Detection Output (GPU)
+      <img src="assets/detection.png" width="500"><br><br>
+      <b>Detection Output (GPU)</b>
     </td>
     <td align="center">
-      <img src="assets/cpu.png" width="350"><br>
-      Detection Output (CPU)
+      <img src="assets/cpu.png" width="500"><br><br>
+      <b>Detection Output (CPU)</b>
     </td>
   </tr>
 </table>
