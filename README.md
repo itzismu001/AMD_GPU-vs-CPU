@@ -90,7 +90,7 @@ pip install -r requirements.txt
 <table>
   <tr>
     <th align="center">AMD DirectML (GPU)</th>
-    <th align="center">CPU Mode</th>
+    
   </tr>
 
   <!-- Row 1 -->
