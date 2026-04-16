@@ -99,23 +99,17 @@ pip install -r requirements.txt
       <img src="assets/gpu.png" width="500"><br><br>
       <b>GPU Processing</b>
     </td>
-    <td align="center">
-      <img src="assets/cpu.png" width="500"><br><br>
+    
       
     
-  </tr>
+  
+  <td align="center">
+<img src="assets/detection.png" width="500"><br><br>
+  <b>Detection Output (GPU)</b>
+ </td>
 
-  <!-- Row 2 -->
-  <tr>
-    <td align="center">
-      <img src="assets/detection.png" width="500"><br><br>
-      <b>Detection Output (GPU)</b>
-    </td>
-    <td align="center">
-      <img src="assets/cpu_detection.png" width="500"><br><br>
-      
+   </tr>    
     
-  </tr>
 </table>
 ### 🛠️ System Telemetry
 
