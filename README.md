@@ -92,7 +92,7 @@ pip install -r requirements.txt
 | AMD DirectML | CPU Mode |
 |-------------|----------|
 | <img src="assets/gpu.png" width="400"> | <img src="assets/cpu.png" width="400"> |
-
+| <img src="assets/detection.png" width="400"> | <img src="assets/cpu.png" width="400"> |
 ---
 
 ### 🛠️ System Telemetry
